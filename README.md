@@ -17,8 +17,12 @@ Install Python (>=3.6):
 
 Clone this repository:
 
-```$ git clone https://github.com/wiguider/Fair-Performance-based-User-Recommendation-in-eCoaching-Systems.git```
+```
+git clone https://github.com/wiguider/Fair-Performance-based-User-Recommendation-in-eCoaching-Systems.git
+```
 
 Install the requirements:
 
-```$ pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
