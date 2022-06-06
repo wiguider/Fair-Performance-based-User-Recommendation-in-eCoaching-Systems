@@ -26,3 +26,7 @@ Install the requirements:
 ```
 pip install -r requirements.txt
 ```
+
+## Dataset
+
+The dataset is stored in the data directory `./data`. The dataset consists of 5,823 workouts performed by 291 users. Each row represents a workout performed by a certain user along with the user's personal data at the time when the workout was performed.
